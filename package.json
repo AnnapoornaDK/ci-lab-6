@@ -1,0 +1,25 @@
+
+{
+  "name": "ci-lab-6",
+  "version": "1.0.0",
+  "description": "Experiment 7 - Build and Test using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnapoornaDK/ci-lab-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnnapoornaDK/ci-lab-6/issues"
+  },
+  "homepage": "https://github.com/AnnapoornaDK/ci-lab-6#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
